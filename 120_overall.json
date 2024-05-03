@@ -1,0 +1,151 @@
+{
+    "overall_consistency": [
+        0.2591066228018867,
+        [
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_10.mp4",
+                "video_results": 0.2891351878643036
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_12.mp4",
+                "video_results": 0.2964634299278259
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_15.mp4",
+                "video_results": 0.2966303825378418
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_16.mp4",
+                "video_results": 0.20885851979255676
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_17.mp4",
+                "video_results": 0.2986067533493042
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_18.mp4",
+                "video_results": 0.2740676701068878
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_19.mp4",
+                "video_results": 0.23060479760169983
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_20.mp4",
+                "video_results": 0.12044596672058105
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_21.mp4",
+                "video_results": 0.21774479746818542
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_22.mp4",
+                "video_results": 0.2928718626499176
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_23.mp4",
+                "video_results": 0.2661975622177124
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_24.mp4",
+                "video_results": 0.2924301326274872
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_25.mp4",
+                "video_results": 0.2807082533836365
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_28.mp4",
+                "video_results": 0.22809293866157532
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_31.mp4",
+                "video_results": 0.31326743960380554
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_32.mp4",
+                "video_results": 0.19921614229679108
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_33.mp4",
+                "video_results": 0.18497760593891144
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_34.mp4",
+                "video_results": 0.18093463778495789
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_35.mp4",
+                "video_results": 0.24931421875953674
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_36.mp4",
+                "video_results": 0.27590829133987427
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_37.mp4",
+                "video_results": 0.226856529712677
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_38.mp4",
+                "video_results": 0.2549005448818207
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_40.mp4",
+                "video_results": 0.23955194652080536
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_41.mp4",
+                "video_results": 0.27849891781806946
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_42.mp4",
+                "video_results": 0.2846168875694275
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_43.mp4",
+                "video_results": 0.21132323145866394
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_44.mp4",
+                "video_results": 0.26893356442451477
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_45.mp4",
+                "video_results": 0.2546286880970001
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_46.mp4",
+                "video_results": 0.3081737160682678
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_48.mp4",
+                "video_results": 0.31314751505851746
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_49.mp4",
+                "video_results": 0.2787715494632721
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_50.mp4",
+                "video_results": 0.24196523427963257
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_51.mp4",
+                "video_results": 0.30197593569755554
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_53.mp4",
+                "video_results": 0.33458590507507324
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_54.mp4",
+                "video_results": 0.3593829572200775
+            },
+            {
+                "video_path": "/work/li.baol/GIT/Open-Sora/scripts/samples/samples/batch_1_steps_120_frames_16_reso_240x426/sample_55.mp4",
+                "video_results": 0.17404870688915253
+            }
+        ]
+    ]
+}
